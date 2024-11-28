@@ -5,7 +5,7 @@
 width: 50%
 name: quantumruleslab_okt2024.jpg
 ---
-Students visiting Quantum Rules
+\sqrt{64} + 1 students visiting Quantum Rules!
 ```
 # Welcome to the Template Book
 

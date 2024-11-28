@@ -1,11 +1,11 @@
 (intro)=
 
-``` {figure} figures/quantumruleslab_okt2024
+``` {figure} figures/quantumruleslab_okt2024.jpg
 ---
 width: 50%
 name: quantumruleslab_okt2024
 ---
-add bestand in de folder
+add quantumruleslab_okt2024.jpg
 ```
 # Welcome to the Template Book
 

@@ -3,7 +3,7 @@
 ``` {figure} figures/quantumruleslab_okt2024.jpg
 ---
 width: 50%
-name: quantumruleslab_okt2024
+name: quantumruleslab_okt2024.jpg
 ---
 add quantumruleslab_okt2024.jpg
 ```

@@ -16,4 +16,6 @@ This book can be used as a template for other books. It includes a starter packa
 ## Vingeroefeningen ##
 $$ \sqrt{64} = 6 + 2 $$
 
-Nu inline: $$ \sqrt{9} = 3 $$ toch?
+Nu inline: 
+$ \sqrt{9} = 3 $ 
+, toch?

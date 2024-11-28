@@ -17,5 +17,5 @@ This book can be used as a template for other books. It includes a starter packa
 $$ \sqrt{64} = 6 + 2 $$
 
 Nu inline: 
-$ \sqrt{9} = 3 $ 
+$$ \sqrt{9} = 3 $$ 
 , toch?

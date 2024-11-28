@@ -1,6 +1,6 @@
 (intro)=
 
-``` {figure} figures/incl_fig.PNG
+``` {figure} figures/quantumruleslab_okt2024
 ---
 width: 50%
 name: quantumruleslab_okt2024
